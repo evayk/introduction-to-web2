@@ -1,4 +1,4 @@
-# introduction-to-web
+# introduction-to-web2
 
 **Тема:** Объектная модель документа
 
