@@ -20,4 +20,4 @@
 -	elem.hasAttribute(name) – проверяет наличие атрибута
 -	elem.getAttribute(name) – получает значение атрибута
 -	elem.setAttribute(name, value) – устанавливает значение атрибута
--	elem.removeAttribute(name) – удаляет атрибут
+-	elem.removeAttribute(name) - удаляет атрибут
